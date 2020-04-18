@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WishList</string>
+
+    <string name="wish_list_delete_title">Delete from wish list</string>
+    <string name="wish_list_delete_message">Are you sure you want to delete this item?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="add_new_title">Add item to wish list</string>
+    <string name="add_new_name_hint">Name</string>
+    <string name="add_new_category_hint">Category</string>
+    <string name="add_new_add_button">Add</string>
+</resources>
